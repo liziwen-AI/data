@@ -1,0 +1,7 @@
+==PROF== Connected to process 5456 (/home/ubuntu/miniconda3/bin/python3.11)
+🎉 恭喜！你的自定义算子实现与参考实现完全吻合，精度达标！
+: 💯 ✅ ❌ ⚡ 🎯 🚀
+custom_kernel time: 0.33105342864990234
+==PROF== Disconnected from process 5456
+==WARNING== No kernels were profiled.
+==WARNING== Refer https://docs.nvidia.com/nsight-compute/NsightComputeCli/index.html#nvtx-filtering for NVTX Filtering usage.
